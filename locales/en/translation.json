@@ -1,5 +1,53 @@
 {
   "name": "Pawitchaya Chaloeijanya",
   "position": "Software Developer, DevOps",
-  "location": "Bangkok, Thailand"
+  "location": "Bangkok, Thailand 10700",
+  "phone-number": "+66 090-520-4885",
+  "title-education": "Education",
+  "title-coursework": "Relevant Coursework",
+  "title-skills": "Technical Skills",
+  "title-activities": "Extracurricular Activities",
+  "title-experience": "Experience",
+  "education": {
+    "1": {
+      "time-range": "2021 - 2025 (Expected)",
+      "degree": "BEng, Software and Knowledge Engineering.",
+      "university": "Kasetsart University, Bangkok.",
+      "gpa": "GPA: 3.20"
+    }
+  },
+  "coursework": {
+    "compro": "Computer Programming 1, 2",
+    "isp": "Individual Software Development Process",
+    "dataalgo": "Data Structure and Algorithm",
+    "network": "Computer Network Architecture and Programming"
+  },
+  "skills": {
+    "programming-language": "Programming Languages",
+    "agile": "Agile Development Process",
+    "language": "Spoken Languages",
+    "english": "English (IELTS Overall Score 7.5)",
+    "thai": "Thai (Native)"
+  },
+  "activities": {
+    "1": {
+      "title": "Teaching Assistant",
+      "summary": "Giving advices for the students of Computer Programming 1 course, evaluating students' coursework and developing tools to ease other teaching assistants.",
+      "time-range": "July - December 2022",
+      "location": "Kasetsart University",
+      "course": "Computer Programming 1"
+    },
+    "2": {
+      "title": "Google Developers Student Club Core Member",
+      "summary": "Organizing and running tech-related events in the campus grounds such as talks and workshops. Managing offical GDSC social account by writing and publishing posts.",
+      "time-range": "September 2022 - Present",
+      "location": "Kasetsart University"
+    },
+    "3": {
+      "title": "SOS 11th Camp Lecture Team Lead and Website Developer",
+      "summary": "Providing learning materials and teaching Python basics for freshman students. Creating a website that hosts coding exercises for the event.",
+      "time-range": "13 - 16 July 2022",
+      "location": "Kasetsart University"
+    }
+  }
 }

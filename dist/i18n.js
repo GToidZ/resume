@@ -1,13 +1,13 @@
 const i18next = window.i18next;
 const i18nextHttpBackend = window.i18nextHttpBackend;
+const ghpage = true;
 
 i18next.use(i18nextHttpBackend).init({
   lng: 'en',
   fallbackLng: 'en',
-  debug: true,
   initImmediate: false,
   backend: {
-    loadPath: '/resume/locales/{{lng}}/{{ns}}.json'
+    loadPath: (ghpage ? '/resume' : '') + '/locales/{{lng}}/{{ns}}.json'
   }
 }, () => {
   window.translate()
