@@ -7,7 +7,7 @@ i18next.use(i18nextHttpBackend).init({
   debug: true,
   initImmediate: false,
   backend: {
-    loadPath: '/locales/{{lng}}/{{ns}}.json'
+    loadPath: '/resume/locales/{{lng}}/{{ns}}.json'
   }
 }, () => {
   window.translate()
