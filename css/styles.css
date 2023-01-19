@@ -24,3 +24,12 @@
         print-color-adjust: exact;
     }
 }
+
+#loader-wrapper .loaded {
+    -webkit-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    transform: translateY(-100%);
+
+    -webkit-transition: all 0.3s 0.6s ease-out;
+    transition: all 0.3s 0.6s ease-out;
+}
