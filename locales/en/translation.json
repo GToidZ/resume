@@ -3,11 +3,13 @@
   "position": "Software Developer, DevOps",
   "location": "Bangkok, Thailand 10700",
   "phone-number": "+66 090-520-4885",
+  "title-summary": "Summary", 
   "title-education": "Education",
   "title-coursework": "Relevant Coursework",
   "title-skills": "Technical Skills",
   "title-activities": "Extracurricular Activities",
   "title-experience": "Experience",
+  "summary": "A passionate software developer that likes DevOps and Infrastructure Engineering.<br/>I also like to learn new technologies and improve myself to do Full-stack too.",
   "education": {
     "1": {
       "time-range": "2021 - 2025 (Expected)",
