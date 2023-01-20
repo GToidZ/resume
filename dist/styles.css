@@ -672,6 +672,10 @@ html {
   margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
+.break-all{
+  word-break: break-all;
+}
+
 .bg-gray-900{
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
@@ -773,6 +777,15 @@ html {
 
   .print\:gap-y-0{
     row-gap: 0px;
+  }
+
+  .print\:break-normal{
+    overflow-wrap: normal;
+    word-break: normal;
+  }
+
+  .print\:break-keep{
+    word-break: keep-all;
   }
 }
 
