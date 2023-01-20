@@ -11,7 +11,7 @@
   "education": {
     "1": {
       "time-range": "2021 - 2025 (Expected)",
-      "degree": "BEng, Software and Knowledge Engineering.",
+      "degree": "B.Eng, Software and Knowledge Engineering.",
       "university": "Kasetsart University, Bangkok.",
       "gpa": "GPA: 3.20"
     }
@@ -48,6 +48,18 @@
       "summary": "Providing learning materials and teaching Python basics for freshman students. Creating a website that hosts coding exercises for the event.",
       "time-range": "13 - 16 July 2022",
       "location": "Kasetsart University"
+    }
+  },
+  "experience": {
+    "1": {
+      "title": "WongNung, a Community-based Movie Review Aggregation Website",
+      "summary": "A project done for the Individual Software Development Process course. I am responsible as a Full-stack developer, DevOps engineer and maintainer for the production server.",
+      "time-range": "October - December 2022"
+    },
+    "2": {
+      "title": "SOS 11th Camp Website",
+      "summary": "A website for SOS 11th Camp which hosts coding exercises. I am responsible for frontend development and DevOps.",
+      "time-range": "July 2022"
     }
   }
 }
